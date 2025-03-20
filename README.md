@@ -13,7 +13,7 @@
 - 🚀 Successfully scaled a system to **1200+ customers (shops)**, ensuring seamless performance and reliability.
 - 🤖 Integrated advanced **AI-powered solutions**, significantly improving product search and customer experience.
 - 🛠️ Led a major backend migration from Go to Node.js, accelerating development and removing bottlenecks.
-- 📈 Optimized databases and system architectures, achieving cost savings of **$513/month** by reducing storage and improving efficiency.
+- 📈 Optimized databases and system architectures, achieving cost savings of **$513/month**
 - 🎯 Managed and developed critical projects with **high complexity and tight deadlines**, enhancing overall productivity.
 
 ---
