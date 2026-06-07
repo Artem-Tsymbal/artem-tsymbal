@@ -44,6 +44,7 @@
 <h2 align="center">📫 Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/artemtsymbal/"><img src="https://img.shields.io/badge/LinkedIn-%23F5FF45?style=for-the-badge&logo=linkedin&logoColor=%23181818" /></a>
+  <a href="https://t.me/artem0804"><img src="https://img.shields.io/badge/Telegram-%23F5FF45?style=for-the-badge&logo=telegram&logoColor=%23181818" /></a>
   <a href="mailto:tsymbal0804@gmail.com"><img src="https://img.shields.io/badge/Email-%23F5FF45?style=for-the-badge&logo=gmail&logoColor=%23181818" /></a>
 </p>
+
